@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'Helvetica LT Std';
+    src: url('../fonts/HelveticaLTStd-Cond.eot');
+    src: url('../fonts/HelveticaLTStd-Cond.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HelveticaLTStd-Cond.woff2') format('woff2'),
+        url('../fonts/HelveticaLTStd-Cond.woff') format('woff'),
+        url('../fonts/HelveticaLTStd-Cond.ttf') format('truetype'),
+        url('../fonts/HelveticaLTStd-Cond.svg#HelveticaLTStd-Cond') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
